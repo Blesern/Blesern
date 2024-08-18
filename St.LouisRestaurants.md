@@ -2,7 +2,7 @@
 
 ## A Diverse Food Scene
 
-St. Louis, Missouri, boasts a vibrant and diverse culinary landscape that reflects the city's rich cultural heritage. From classic Midwestern comfort food to innovative fusion cuisine, the Gateway City offers something for every palate. The restaurant scene in St. Louis has evolved significantly in recent years, earning recognition from food critics and attracting talented chefs from around the country.
+St. Louis, Missouri, boasts a vibrant and diverse culinary landscape that reflects the city's rich cultural heritage. From classic Midwestern comfort food to innovative [fusion cuisine](MissionTacoReview.md), the Gateway City offers something for every palate. The restaurant scene in St. Louis has evolved significantly in recent years, earning recognition from food critics and attracting talented chefs from around the country.
 
 ## Iconic Local Specialties
 
