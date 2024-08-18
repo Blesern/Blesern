@@ -5,3 +5,4 @@ I want to start this by saying me and my fiancé normally come here at least onc
 Even a man came in for a to-go order and he told her that he was told only 10 minutes and it had been like 40, her only concerning comment was "sorry its saturday."
 
 I'm so very disappointed in Mission Taco but especially someone they would name a manager. Of all the times we have been to Mission Taco( which is almost every week) this time especially upset us and really made me not want to come back. Very sad that you can be a respectful paying customer and get treated this way at a place where you have chose to spend your time and money. I hope there is someone above her who can rectify this situation because she created very distasteful experience at a great establishment.
+[St. Louis Restaurants](St.LouisRestaurants.md)
