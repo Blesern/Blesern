@@ -29,4 +29,5 @@ The city's burgeoning craft beer scene complements its culinary offerings. Local
 At the heart of St. Louis's restaurant culture is a strong sense of community and hospitality. Whether dining in a family-owned eatery or a modern bistro, patrons are often greeted with warmth and a welcoming smile. This spirit of hospitality makes dining out an integral part of the city's cultural expression, fostering connections among residents and visitors alike.
 
 St. Louis's restaurant culture is a testament to its rich history and dynamic present. With its blend of traditional dishes, innovative cuisine, and a focus on community, the city's culinary scene continues to thrive and evolve.
-[Return to README](path/to/README.md)
+[Back to README](README.md)
+
