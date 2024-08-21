@@ -29,4 +29,5 @@
 
 10. **Community events:**
     Regular beer festivals and events have helped to cultivate and maintain interest in craft beer.
+
 [Back to Culture](Culture.md)
