@@ -10,7 +10,7 @@ St. Louis is renowned for its distinctive local dishes. **Toasted ravioli**, a b
 
 Each neighborhood in St. Louis contributes its own flavor to the city's culinary landscape:
 
-- **The Hill**: Known for its Italian heritage, this area is home to numerous family-owned restaurants that have been passed down through generations. Visitors can enjoy authentic Italian dishes in a warm, welcoming atmosphere.
+- **The Hill**: Known for its Italian heritage, this area is home to numerous family-owned [restaurants](BestItalianTheHill.md) that have been passed down through generations. Visitors can enjoy authentic Italian dishes in a warm, welcoming atmosphere.
 
 - **Cherokee Street**: This vibrant district is a melting pot of cultures, with a growing number of Latino restaurants offering authentic Mexican, Salvadoran, and other Latin American cuisines. The street is also dotted with eclectic cafes and bakeries.
 
