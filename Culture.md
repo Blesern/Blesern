@@ -12,7 +12,7 @@ Each neighborhood in St. Louis contributes its own flavor to the city's culinary
 
 - **The Hill**: Known for its Italian heritage, this area is home to numerous family-owned [restaurants](BestItalianTheHill.md) that have been passed down through generations. Visitors can enjoy authentic Italian dishes in a warm, welcoming atmosphere.
 
-- **Cherokee Street**: This vibrant district is a melting pot of cultures, with a growing number of Latino restaurants offering authentic Mexican, Salvadoran, and other Latin American cuisines. The street is also dotted with eclectic cafes and bakeries.
+- **Cherokee Street**: This [vibrant district](CherokeeDistrict.md) is a melting pot of cultures, with a growing number of Latino restaurants offering authentic Mexican, Salvadoran, and other Latin American cuisines. The street is also dotted with eclectic cafes and bakeries.
 
 - **Central West End**: A hub for upscale dining, the Central West End features a mix of trendy bistros, international restaurants, and cozy cafes, all set against a backdrop of historic architecture.
 
