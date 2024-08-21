@@ -22,7 +22,7 @@ St. Louis has embraced the farm-to-table movement, with many restaurants priorit
 
 ## Craft Beer and Beverage Scene
 
-The city's burgeoning craft beer scene complements its culinary offerings. Local breweries produce a variety of distinctive brews, from hoppy IPAs to rich stouts, which pair perfectly with the diverse restaurant menus. Additionally, St. Louis offers a growing selection of craft cocktails and wine bars, adding to the vibrant beverage culture.
+The city's burgeoning [craft beer](CraftBeer.md) scene complements its culinary offerings. Local breweries produce a variety of distinctive brews, from hoppy IPAs to rich stouts, which pair perfectly with the diverse restaurant menus. Additionally, St. Louis offers a growing selection of craft cocktails and wine bars, adding to the vibrant beverage culture.
 
 ## Community and Hospitality
 
