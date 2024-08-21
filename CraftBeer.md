@@ -28,6 +28,6 @@
    The surrounding agricultural areas provide easy access to ingredients like hops and grains.
 
 10. **Community events:**
-    Regular beer festivals and events have helped to cultivate and maintain interest in craft beer.
+    Regular beer [festivals and events](CraftBeerEvents.md) have helped to cultivate and maintain interest in craft beer.
 
 [Back to Culture](Culture.md)
