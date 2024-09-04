@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olive + Oak",
+        "address": "216 W Lockwood Ave, Saint Louis, MO 63119",
+        "description": "Contemporary American restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.3573, 38.5892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anthonino's Taverna",
+        "address": "2225 Macklind Ave, Saint Louis, MO 63110",
+        "description": "Italian and Greek restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2825, 38.6106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broadway Oyster Bar",
+        "address": "736 S Broadway, St. Louis, MO 63102",
+        "description": "Cajun and Creole seafood restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.1914, 38.6247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twisted Tree",
+        "address": "10701 Watson Rd, Saint Louis, MO 63127",
+        "description": "Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.3983, 38.5661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frank Papa's Ristorante",
+        "address": "2241 S Brentwood Blvd, Brentwood, MO 63144",
+        "description": "Italian restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.3451, 38.6258]
+      }
+    }
+  ]
+}
