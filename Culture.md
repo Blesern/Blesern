@@ -1,6 +1,6 @@
 # The Culture of St. Louis, MO Restaurants
 
-St. Louis, Missouri, is a city with a rich and diverse culinary culture that offers a unique blend of traditional and contemporary dining experiences. The city's restaurant scene is a reflection of its historical roots and multicultural influences, making it a vibrant hub for food enthusiasts.
+St. Louis, Missouri, is a city with a rich and diverse culinary culture that offers a unique blend of traditional and contemporary dining experiences. The [city's restaurant scene](STLRestuarants.geojson) is a reflection of its historical roots and multicultural influences, making it a vibrant hub for food enthusiasts.
 
 ## Culinary Traditions
 
