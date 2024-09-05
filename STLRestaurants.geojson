@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Olive + Oak",
         "address": "216 W Lockwood Ave, Saint Louis, MO 63119",
         "description": "Contemporary American restaurant"
@@ -16,6 +17,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Anthonino's Taverna",
         "address": "2225 Macklind Ave, Saint Louis, MO 63110",
         "description": "Italian and Greek restaurant"
@@ -28,6 +30,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Broadway Oyster Bar",
         "address": "736 S Broadway, St. Louis, MO 63102",
         "description": "Cajun and Creole seafood restaurant"
@@ -40,6 +43,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Twisted Tree",
         "address": "10701 Watson Rd, Saint Louis, MO 63127",
         "description": "Steakhouse"
@@ -52,6 +56,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Frank Papa's Ristorante",
         "address": "2241 S Brentwood Blvd, Brentwood, MO 63144",
         "description": "Italian restaurant"
@@ -64,6 +69,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Charlie Gitto's On the Hill",
         "address": "5226 Shaw Ave, Saint Louis, MO 63110",
         "description": "Italian restaurant"
@@ -76,6 +82,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Tony's",
         "address": "105 Carondelet Plz, Clayton, MO 63105",
         "description": "Fine dining restaurant"
@@ -88,6 +95,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "restaurant",
         "name": "Idol Wolf",
         "address": "1528 Locust St, St Louis, MO 63103",
         "description": "Restaurant"
@@ -99,4 +107,3 @@
     }
   ]
 }
-
