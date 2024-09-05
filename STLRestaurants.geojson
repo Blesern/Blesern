@@ -60,8 +60,43 @@
         "type": "Point",
         "coordinates": [-90.3451, 38.6258]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlie Gitto's On the Hill",
+        "address": "5226 Shaw Ave, Saint Louis, MO 63110",
+        "description": "Italian restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2742, 38.6163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tony's",
+        "address": "105 Carondelet Plz, Clayton, MO 63105",
+        "description": "Fine dining restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.3403, 38.6489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idol Wolf",
+        "address": "1528 Locust St, St Louis, MO 63103",
+        "description": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.1938, 38.6314]
+      }
     }
   ]
 }
-
 
