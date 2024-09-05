@@ -3,11 +3,10 @@
   "features": [
     {
       "type": "Feature",
+      "id": "olive-oak",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Olive + Oak",
-        "address": "216 W Lockwood Ave, Saint Louis, MO 63119",
-        "description": "Contemporary American restaurant"
+        "title": "Olive + Oak",
+        "description": "216 W Lockwood Ave, Saint Louis, MO 63119\nContemporary American restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -16,11 +15,10 @@
     },
     {
       "type": "Feature",
+      "id": "anthoninos-taverna",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Anthonino's Taverna",
-        "address": "2225 Macklind Ave, Saint Louis, MO 63110",
-        "description": "Italian and Greek restaurant"
+        "title": "Anthonino's Taverna",
+        "description": "2225 Macklind Ave, Saint Louis, MO 63110\nItalian and Greek restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -29,11 +27,10 @@
     },
     {
       "type": "Feature",
+      "id": "broadway-oyster-bar",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Broadway Oyster Bar",
-        "address": "736 S Broadway, St. Louis, MO 63102",
-        "description": "Cajun and Creole seafood restaurant"
+        "title": "Broadway Oyster Bar",
+        "description": "736 S Broadway, St. Louis, MO 63102\nCajun and Creole seafood restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -42,11 +39,10 @@
     },
     {
       "type": "Feature",
+      "id": "twisted-tree",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Twisted Tree",
-        "address": "10701 Watson Rd, Saint Louis, MO 63127",
-        "description": "Steakhouse"
+        "title": "Twisted Tree",
+        "description": "10701 Watson Rd, Saint Louis, MO 63127\nSteakhouse"
       },
       "geometry": {
         "type": "Point",
@@ -55,11 +51,10 @@
     },
     {
       "type": "Feature",
+      "id": "frank-papas",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Frank Papa's Ristorante",
-        "address": "2241 S Brentwood Blvd, Brentwood, MO 63144",
-        "description": "Italian restaurant"
+        "title": "Frank Papa's Ristorante",
+        "description": "2241 S Brentwood Blvd, Brentwood, MO 63144\nItalian restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -68,11 +63,10 @@
     },
     {
       "type": "Feature",
+      "id": "charlie-gittos",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Charlie Gitto's On the Hill",
-        "address": "5226 Shaw Ave, Saint Louis, MO 63110",
-        "description": "Italian restaurant"
+        "title": "Charlie Gitto's On the Hill",
+        "description": "5226 Shaw Ave, Saint Louis, MO 63110\nItalian restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -81,11 +75,10 @@
     },
     {
       "type": "Feature",
+      "id": "tonys",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Tony's",
-        "address": "105 Carondelet Plz, Clayton, MO 63105",
-        "description": "Fine dining restaurant"
+        "title": "Tony's",
+        "description": "105 Carondelet Plz, Clayton, MO 63105\nFine dining restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -94,11 +87,10 @@
     },
     {
       "type": "Feature",
+      "id": "idol-wolf",
       "properties": {
-        "marker-symbol": "restaurant",
-        "name": "Idol Wolf",
-        "address": "1528 Locust St, St Louis, MO 63103",
-        "description": "Restaurant"
+        "title": "Idol Wolf",
+        "description": "1528 Locust St, St Louis, MO 63103\nRestaurant"
       },
       "geometry": {
         "type": "Point",
