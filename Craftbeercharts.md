@@ -1,7 +1,7 @@
 # Image Gallery
 
 ## Image 1
-![Image 1](path/to/Beers by country AI project.png)
+![Beers by country AI project.png](path/to/image1.png)
 
 ## Image 2
 ![Image 2](path/to/image2.png)
