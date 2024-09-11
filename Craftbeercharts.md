@@ -1,11 +1,19 @@
-# Image Gallery
+# Beer Analysis Project Images
 
-## Image 1
-![Beers by country AI project.png](path/to/image1.png)
+## ABV Histogram
+![ABV Histogram](Abv%20Histo%20AI%20project.png)
 
-## Image 2
-![Image 2](path/to/image2.png)
+## Beers by Country
+![Beers by Country](Beers%20by%20country%20AI%20project.png)
 
-## Image 3
-![Image 3](path/to/image3.png)
+## Correlation: ABV vs Price
+![Correlation: ABV vs Price](corr%20abv%20price.png)
 
+## Correlation: Country vs Price
+![Correlation: Country vs Price](corr%20country%20price.png)
+
+## Correlation: Size vs Price
+![Correlation: Size vs Price](corr%20size%20price.png)
+
+## Correlation Matrix
+![Correlation Matrix](matrix%20corr.png)
