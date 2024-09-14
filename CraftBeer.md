@@ -30,6 +30,6 @@
 10. **Community events:**
     Regular beer [festivals and events](CraftBeerEvents.md) have helped to cultivate and maintain interest in craft beer.
 
-[A look into how Craft Beer might be priced](CraftBeercharts.md)
+[A look into how Craft Beer might be priced](Craftbeercharts.md)
 
 [Back to Culture](Culture.md)
